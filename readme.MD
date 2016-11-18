@@ -6,8 +6,12 @@ The code for the angular2 official tutorial.
 ```
 git clone https://github.com/ivanbtrujillo/Angular2-Tour-of-Heroes Angular2-ToH
 cd Angular2- ToH
-// Install dependencies
+````
+Install dependencies
+```
 npm i
-// Run live server
+```
+Run live server
+```
 npm run start
 ```
